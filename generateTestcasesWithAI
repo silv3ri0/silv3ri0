@@ -1,0 +1,10 @@
+How to generate test plan from documens of requirements?
+Upload document or screenshot with requirements on gemini or chatgpt
+write whis prompt: generate detailed test plan tailored to my requirements
+Prompt for test cases: i need all functional test cases with test id, test description, test steps and expected result in table section
+Prompt for generate test data: can we have test data as well for each test cases combination
+Prompt for generate test flow E2E: Instead of multiple test cases, can you prepare one solid test flow as end to end for [NAME_FEATURE] 
+Prompt for categorize the test cases: for the test cases that you create above, give me which test go in which layer of pyramid?
+Prompt for all input combination: FOr [IDTESTCASE] give me an input and output combination to test the unit method
+Prompt for generating cucumber: For this test [IDTESTCASE] give me cucumber feature file steps
+Prompt for generating page object structure: can you modify the existing code by giving me page object structure for every step definitions file so that locators are pulled as methods from page object file to step definition method 
