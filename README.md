@@ -35,8 +35,7 @@ I am passionate about **Artificial Intelligence** and its creative applications.
 ---
 
 ### 📫 Contact Me
-- 📧 **Email**: silverio.giancristofaro@gmail.com  
-- 🌍 **Location**: Casalecchio di Reno, BO, Italy  
+- 📧 **Email**: silverio.giancristofaro@gmail.com   
 - 💼 **LinkedIn**: https://www.linkedin.com/in/giancri/ 
 
 ---
